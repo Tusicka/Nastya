@@ -1,0 +1,29 @@
+public class HW7 : MonoBehaviour
+{
+public string name = "Nastya";
+public int age = 13;
+public float time = 15.07f;
+public bool status = true;
+ 
+ void Start()
+ {
+ }
+ void Update()
+ {
+ }
+ void FixedUpdate()
+ {
+ }
+ public int()
+ {
+ return 13;
+ }
+ public float()
+ {
+ return 15.07f;
+ }
+ public bool()
+ {
+ return true 
+ }
+}
